@@ -10,6 +10,9 @@
 [submodule "klee"]
 	path = klee
 	url = http://llvm.org/git/klee.git
+[submodule "libcxx"]
+	path = libcxx
+	url = http://llvm.org/git/libcxx.git
 [submodule "llvm"]
 	path = llvm
 	url = http://llvm.org/git/llvm.git
